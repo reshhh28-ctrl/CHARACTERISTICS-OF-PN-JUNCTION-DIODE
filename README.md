@@ -1,4 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
+### Name: RESHMA SM
+### Reg no: 212223080044
 AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
@@ -44,3 +46,7 @@ Model Graph:
 
 
 Result:
+<img width="581" height="552" alt="Forward bias" src="https://github.com/user-attachments/assets/fb0d880d-99d0-463d-a57b-692aae1710be" />
+<img width="578" height="551" alt="reverse bias" src="https://github.com/user-attachments/assets/0ddbe748-5911-4e68-a874-f03ffc53fef2" />
+
+
